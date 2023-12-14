@@ -1,1 +1,2 @@
 # Named-Entity-Recognition
+In this project, I Developed Named Entity Recognition system using a BERT-based model fine-tuned on the CoNLL-2003 dataset. I trained the model using a Trainer with custom-defined metrics  to evaluate the performance during training. The fine-tuned model predicts entities like persons, organizations, and locations in natural language text with high accuracy, as demonstrated in the NER pipeline for real-world applications.
